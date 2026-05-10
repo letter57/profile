@@ -66,7 +66,7 @@
 **角色：系統架構設計 / 韌體 / 硬體**
 
 **專案描述：**
-負責智慧門鎖產品之嵌入式系統開發與整合，涵蓋身分辨識、無線通訊、人機介面與電源管理等核心功能，打造具備多通訊能力與高可靠度的 IoT 門禁解決方案。
+負責智慧門鎖產品之嵌入式系統開發與整合，涵蓋身分辨識、無線通訊、人機介面與電源管理等核心功能，打造具備多通訊能力與高可靠度的 IoT 門禁解決方案，產品支援人臉辨識、RFID 卡片、密碼、BLE App 等多元解鎖方式。
 
 **技術重點：**
 
@@ -118,6 +118,10 @@
 * 提升電容觸控按鍵穩定性，降低誤觸與環境干擾影響.
 * 建立完整電源管理機制，有效提升電池使用壽命.
 * 完成系統整合與量產導入，提升產品可靠度與市場競爭力.
+
+**Product Reference：**
+* [WAFERLOCK L600 Product Page](https://www.waferlock.com/tw/product/L600?utm_source=chatgpt.com)
+* [WAFERLOCK L600 Demonstration Video](https://www.youtube.com/watch?v=5aBnQ_c86Zk)
 
 ---
 ### 🔹 RFID 多UID切換 + BLE HID 一鍵拍照裝置（個人專案）
