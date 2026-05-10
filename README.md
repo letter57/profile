@@ -45,6 +45,7 @@
 * 低功耗裝置設計
 * 使用者操作流程（UX：按鍵 / LED）
 * 量測分析
+* DFU
 
 ### Mechanical / Prototyping
 
@@ -202,9 +203,5 @@
 
 ## 作品集（Portfolio）
 
-（建議放）
-
-* GitHub（程式碼）
-* 專案展示影片（BLE HID / RFID）
-* PCB 設計截圖
-* 產品照片
+* [ReflowSoldering](https://github.com/letter57/ReflowSoldering)
+* [1.3 吋 顯示模組與客製化外殼開發](https://github.com/letter57/WFEGO_000004)
